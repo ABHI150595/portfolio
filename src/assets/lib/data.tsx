@@ -105,7 +105,7 @@ export const projectsData = [
     description:
       "एक योग और ध्यान ऐप जिसे हमने React, MongoDB, Express और Node.js के साथ एक टीम के रूप में बनाया है। एक गिटमास्टर और बैकएंड डेवलपर के रूप में मेरा काम एक रेस्टफुल एपीआई का उपयोग करके कनेक्शन के साथ बैकएंड को प्रोग्राम करना और MongoDB में डेटाबेस को मॉडल करना था।",
     description_EN:
-      "A yoga and meditation app that we built as a team with React, MongoDB, Express and Node.js. My task as a gitmaster and backend developer was to program the backend with connection using a restful API and to model the database in MongoDB.",
+      "A yoga and  TEst email meditation app that we built as a team with React, MongoDB, Express and Node.js. My task as a gitmaster and backend developer was to program the backend with connection using a restful API and to model the database in MongoDB.",
     technologies: [
       { name: "Html", icon: htmlicon },
       { name: "CSS", icon: cssicon },
